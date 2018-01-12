@@ -1,0 +1,4 @@
+[ANNOUNCEMENT][HEADER]Test Announcement[BODY]This is a test announcement![PRIORITY]2[LINK]https://enoughindustries.com/[VERSION]1.0.0.0
+[ANNOUNCEMENT][HEADER]Software Update[BODY]New updates will be available soon![PRIORITY]6[LINK]https://enoughindustries.com/[VERSION]1.0.0.0
+[ANNOUNCEMENT][HEADER]Important Update[BODY]Update to....[PRIORITY]9[LINK]https://github.com/sojournercntl/[VERSION]1.0.0.0
+[ANNOUNCEMENT][HEADER]Important Update[BODY]Update to....[PRIORITY]9[LINK]https://github.com/sojournercntl/[VERSION]1.0.0.0

@@ -1,0 +1,7 @@
+[CONFIGURL][ANNOUNCEMENTS][/]
+[CONFIGURL][VERSION][/]
+[CONFIGURL][ACCESS]http://scontrol.tk/Applications/External/NebulaInjector/nb_infodata.php[/]
+[CONFIGURL][HELP]http://scontrol.tk/[/]
+[CONFIGURL][TICKET]http://scontrol.tk/[/]
+[CONFIGURL][CHANGELOG]http://scontrol.tk/[/]
+[CONFIGURL][WEBSITE]http://scontrol.tk/[/]
